@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me: LinkedIn, Messenger, WhatsApp
   
-"Building a model is like making a stew – it takes a lot of thyme and patience to get it just right." - me ft. GPT 
+"Building a model is like making a stew – it takes a lot of thyme and patience to get it just right."
 
 <!---
 korbzs/korbzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
